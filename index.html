@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#4A90E2">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+    <link rel="manifest" href="manifest.json">
+    <title>Rutina de Ejercicios</title>
+</head>
+<body class="bg-gray-100">
+    <header class="bg-blue-500 text-white text-center py-4">
+        <h1 class="text-2xl font-bold">Rutina de Ejercicios Diaria</h1>
+        <p id="dia-semana" class="text-lg"></p>
+    </header>
+
+    <main class="p-6 max-w-3xl mx-auto">
+        <div id="rutina" class="space-y-6"></div>
+    </main>
+
+    <footer class="bg-gray-200 text-center py-4">
+        <p>&copy; 2024 - Tu Entrenador Personal</p>
+    </footer>
+    <script>
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/service-worker.js')
+            .then(reg => console.log('Service Worker registrado', reg))
+            .catch(err => console.log('Error al registrar el Service Worker', err));
+    }
+    </script>
+    <script src="script.js"></script>
+</body>
+</html>
