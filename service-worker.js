@@ -3,12 +3,12 @@ self.addEventListener('install', event => {
         caches.open('rutina-cache-v1').then(cache => {
             return cache.addAll([
                 '/',
-                '/index.html',
-                '/style.css',
-                '/script.js',
-                '/manifest.json',
-                '/icon-192.png',
-                '/icon-512.png'
+                'index.html',
+                'style.css',
+                'script.js',
+                'manifest.json',
+                'icon-192.png',
+                'icon-512.png'
             ]);
         })
     );
