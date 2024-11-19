@@ -6,7 +6,7 @@ if ('serviceWorker' in navigator) {
 const rutinaPorDia = {
     Lunes: {
         ejercicios: [
-            { nombre: 'Press de pecho con mancuernas', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://www.google.hn/url?sa=i&url=https%3A%2F%2Fmx.pinterest.com%2Fpin%2F1002965779484017301%2F&psig=AOvVaw2b3z1NCFqX-M0J_Nkf8DVM&ust=1731554692937000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCi14au2IkDFQAAAAAdAAAAABBE' },
+            { nombre: 'Press de pecho con mancuernas', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://www.entrenador.fit/wp-content/uploads/Press-plano-con-mancuernas.gif' },
             { nombre: 'Fondos entre sillas', repeticiones: '3 series de 10-12 repeticiones', imagen: 'https://adictosalgym.com/wp-content/uploads/2022/04/13991301-Bench-dip-on-floor_Upper-Arms_720.gif' },
             { nombre: 'Aperturas con mancuernas', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://i.pinimg.com/originals/b0/33/9c/b0339c195ca6efd904c9a91fbf213cdd.gif' },
             { nombre: 'Extensiones de tríceps sobre la cabeza', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://i.pinimg.com/originals/2c/62/ba/2c62ba80d37c94d06ad6d60f1e5445df.gif' },
