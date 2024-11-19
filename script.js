@@ -46,10 +46,10 @@ const rutinaPorDia = {
     },
     Sábado: {
         ejercicios: [
-            { nombre: 'Burpees modificados con mancuernas', repeticiones: '3 series de 10-12 repeticiones', imagen: 'https://www.google.hn/url?sa=i&url=https%3A%2F%2Ffitcron.com%2Fexercise%2Fpress-militar-en-pronacion-con-mancuernas-deltoides%2F&psig=AOvVaw1enmmexf8VV_OYkew8YbbE&ust=1731552272191000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjn2YOl2IkDFQAAAAAdAAAAABAE' },
+            { nombre: 'Burpees modificados con mancuernas', repeticiones: '3 series de 10-12 repeticiones', imagen: 'https://i.pinimg.com/originals/b7/6c/d5/b76cd5cff2452b9b3d839d2018863fbb.gif' },
             { nombre: 'Thrusters con mancuernas', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://www.hipertrofia.org/blog/wp-content/uploads/2023/12/front-squat-dumbbell.gif' },
             { nombre: 'Escaladores (mountain climbers)', repeticiones: '3 series de 30 segundos', imagen: 'https://i.pinimg.com/originals/32/a7/d0/32a7d00d6123dd416e459ba67cf1691b.gif' },
-            { nombre: 'Saltos con mancuernas', repeticiones: '3 series de 10-15 repeticiones', imagen: 'https://cdnl.iconscout.com/lottie/premium/preview-watermark/sentadilla-salto-con-mancuernas-10112717-8265200.mp4' },
+            { nombre: 'Saltos con mancuernas', repeticiones: '3 series de 10-15 repeticiones', imagen: 'https://fitcron.com/wp-content/uploads/2021/04/15541301-Dumbbell-Split-Jump_Plyometric_720.gif' },
         ]
     },
     Domingo: {
