@@ -62,7 +62,8 @@ const rutinaPorDia = {
 const diasSemana = ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"];
 
 function mostrarRutina() {
-    const hoy = new Date().getDay(); // 0 es Domingo, 6 es Sábado
+    //const hoy = new Date().getDay(); // 0 es Domingo, 6 es Sábado
+    const hoy =0;
     const nombreDia = diasSemana[hoy];
     const diaElemento = document.getElementById('dia-semana');
     diaElemento.textContent = nombreDia;
