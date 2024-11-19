@@ -38,8 +38,8 @@ const rutinaPorDia = {
     },
     Viernes: {
         ejercicios: [
-            { nombre: 'Press de hombros con mancuernas', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://www.google.hn/url?sa=i&url=https%3A%2F%2Ffitcron.com%2Fexercise%2Fpress-militar-en-pronacion-con-mancuernas-deltoides%2F&psig=AOvVaw1g3Ok7ncTZJXKjTJBE7Hql&ust=1731553099912000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCVpo6o2IkDFQAAAAAdAAAAABAE' },
-            { nombre: 'Elevaciones laterales con mancuernas', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://www.google.hn/url?sa=i&url=https%3A%2F%2Fmx.pinterest.com%2Fpin%2F362047257561325682%2F&psig=AOvVaw2NPUvI3nH8q9Q_lFC7GKRl&ust=1731553126320000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJii2Zqo2IkDFQAAAAAdAAAAABAE' },
+            { nombre: 'Press de hombros con mancuernas', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://fitcron.com/wp-content/uploads/2021/04/04261301-Dumbbell-Standing-Overhead-Press_shoulder_720.gif' },
+            { nombre: 'Elevaciones laterales con mancuernas', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://i.pinimg.com/originals/82/ca/95/82ca95a3dcf9406fb741a214d25a685a.gif' },
             { nombre: 'Elevación frontal con mancuernas', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://aztethic.com/wp-content/uploads/2018/04/03101301-Dumbbell-Front-Raise_Shoulders_1080.gif' },
             { nombre: 'Encogimiento de hombros con mancuernas', repeticiones: '3 series de 15-20 repeticiones', imagen: 'https://media.tenor.com/uMNZPBaaTPYAAAAM/dumbbell-shrug.gif' },
         ]
