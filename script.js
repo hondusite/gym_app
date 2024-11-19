@@ -30,10 +30,10 @@ const rutinaPorDia = {
     },
     Jueves: {
         ejercicios: [
-            { nombre: 'Elevación de piernas', repeticiones: '3 series de 15 repeticiones', imagen: 'https://www.google.hn/url?sa=i&url=https%3A%2F%2Fes.pinterest.com%2Fpin%2F642607440585626874%2F&psig=AOvVaw3r9GCOhyRR9PCCjyGHow6k&ust=1731552001879000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLic-4Ok2IkDFQAAAAAdAAAAABAE' },
+            { nombre: 'Elevación de piernas', repeticiones: '3 series de 15 repeticiones', imagen: 'https://i.gifer.com/V1J4.gif' },
             { nombre: 'Plancha', repeticiones: '3 series de 30-45 segundos', imagen: 'https://i.pinimg.com/originals/bb/e7/86/bbe78693697daed4037ea5439025f68f.gif' },
-            { nombre: 'Russian twists', repeticiones: '3 series de 20 repeticiones', imagen: 'https://www.google.hn/url?sa=i&url=https%3A%2F%2Fwww.menshealth.com%2Ffitness%2Fa20694928%2Ffeet-raised-russian-twist%2F&psig=AOvVaw1LpwY1aXYmFIGGKcoHQKuR&ust=1731552080907000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDy66uk2IkDFQAAAAAdAAAAABAY' },
-            { nombre: 'Crunch con mancuernas', repeticiones: '3 series de 15 repeticiones', imagen: 'https://www.google.hn/url?sa=i&url=https%3A%2F%2Fwww.mundodeportivo.com%2Funcomo%2Fdeporte%2Farticulo%2Fcomo-hacer-abdominales-con-mancuernas-44381.html&psig=AOvVaw0p32fJ8pclqurzRkYal7cG&ust=1731552142505000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjO0Myk2IkDFQAAAAAdAAAAABBV' },
+            { nombre: 'Russian twists', repeticiones: '3 series de 20 repeticiones', imagen: 'https://i.makeagif.com/media/9-07-2022/-Q5TrO.gif' },
+            { nombre: 'Crunch con mancuernas', repeticiones: '3 series de 15 repeticiones', imagen: 'https://www.inspireusafoundation.org/wp-content/uploads/2023/11/weighted-knee-crunch.gif' },
         ]
     },
     Viernes: {
