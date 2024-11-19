@@ -49,7 +49,7 @@ const rutinaPorDia = {
             { nombre: 'Burpees modificados con mancuernas', repeticiones: '3 series de 10-12 repeticiones', imagen: 'https://i.pinimg.com/originals/b7/6c/d5/b76cd5cff2452b9b3d839d2018863fbb.gif' },
             { nombre: 'Thrusters con mancuernas', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://www.hipertrofia.org/blog/wp-content/uploads/2023/12/front-squat-dumbbell.gif' },
             { nombre: 'Escaladores (mountain climbers)', repeticiones: '3 series de 30 segundos', imagen: 'https://i.pinimg.com/originals/32/a7/d0/32a7d00d6123dd416e459ba67cf1691b.gif' },
-            { nombre: 'Saltos con mancuernas', repeticiones: '3 series de 10-15 repeticiones', imagen: 'https://fitcron.com/wp-content/uploads/2021/04/15541301-Dumbbell-Split-Jump_Plyometric_720.gif' },
+            { nombre: 'Saltos con mancuernas', repeticiones: '3 series de 10-15 repeticiones', imagen: 'https://i.pinimg.com/originals/80/5f/34/805f34065a236ae010db3b59181a0bae.gif' },
         ]
     },
     Domingo: {
