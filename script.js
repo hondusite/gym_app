@@ -23,8 +23,8 @@ const rutinaPorDia = {
     Miércoles: {
         ejercicios: [
             { nombre: 'Remo con mancuernas', repeticiones: '4 series de 12-15 repeticiones', imagen: 'https://jumpseller.s3.eu-west-1.amazonaws.com/store/grecoromana-co/assets/Remos%20con%20mancuerna%20a%20un%20brazo.gif' },
-            { nombre: 'Curl de bíceps con mancuernas', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://www.google.hn/url?sa=i&url=https%3A%2F%2Fes.pinterest.com%2Fpin%2Fcurl-de-bceps-con-dos-mancuernas-sentado--450782243966005755%2F&psig=AOvVaw20QJJ0lRJtv0_dIhfHlUV2&ust=1731551864833000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDag8Kj2IkDFQAAAAAdAAAAABAE' },
-            { nombre: 'Pullover con mancuernas', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://www.google.hn/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F69242913004555057%2F&psig=AOvVaw17IaC34KA3iZLTbig9_aMw&ust=1731551897085000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjKhtyj2IkDFQAAAAAdAAAAABAS' },
+            { nombre: 'Curl de bíceps con mancuernas', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://i.pinimg.com/originals/5d/08/f7/5d08f7c3fb0350f7eef570430d69e66e.gif' },
+            { nombre: 'Pullover con mancuernas', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://i.pinimg.com/originals/d2/43/1a/d2431a33e8619902629d58ecee73c454.gif' },
             { nombre: 'Curl martillo', repeticiones: '3 series de 12-15 repeticiones', imagen: 'https://boxlifemagazine.com/wp-content/uploads//2023/08/curl-haltere-prise-neutre-min-1.gif' },
         ]
     },
